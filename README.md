@@ -1,5 +1,6 @@
 # ContentAI — AI Content Generator
 
+OPEN AI:https://generative-ai-h3g3.onrender.com/
 > **Text · Code · Images** — powered by Groq LLaMA 3.1 and Pollinations.ai
 
 ContentAI is a production-ready Flask web application that lets you generate text, code, and images through a single, polished interface. It features a persistent prompt library, configurable generation parameters, and a server-side image proxy that eliminates browser CORS issues entirely.
