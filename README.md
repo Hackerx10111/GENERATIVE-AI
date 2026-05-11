@@ -509,7 +509,7 @@ POST /api/generate
 }
 ```
 Response: `{ "content": "..." }`
-<img width="1588" height="858" alt="image" src="https://github.com/user-attachments/assets/f5b0aa74-fbad-4de4-a2a5-bf2c747aa5d6" />
+
 
 
 ---
@@ -562,6 +562,7 @@ All features were manually tested end-to-end during Sprint 4. Below are the exac
 ---
 
 ### Test 1 — Basic Text Generation
+<img width="1588" height="858" alt="image" src="https://github.com/user-attachments/assets/f5b0aa74-fbad-4de4-a2a5-bf2c747aa5d6" />
 
 **Tab:** Text  
 **System Prompt:**
@@ -613,6 +614,7 @@ Write a 7-tweet thread about the biggest mistakes developers make when building 
 ---
 
 ### Test 4 — Python Code Generation
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/484f0bf4-ff16-4741-a190-9ee024b8347a" />
 
 **Tab:** Code  
 **Language:** Python  
@@ -683,6 +685,7 @@ Futuristic city skyline at sunset, neon lights reflecting in rain-soaked cobbles
 ---
 
 ### Test 9 — Image Generation (Previously Failing — CORS Bug)
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/f4a6633d-7138-47ff-ba7e-dffcfb1488a3" />
 
 **Tab:** Image  
 **Model:** `flux`  
