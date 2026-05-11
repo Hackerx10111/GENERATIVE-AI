@@ -88,7 +88,7 @@ python app.py
 
 **6. Open in your browser**
 ```
-http://localhost:5000
+https://generative-ai-1l0y.onrender.com/
 ```
 
 ---
