@@ -483,6 +483,8 @@ https://generative-ai-1l0y.onrender.com/
 3. Set dimensions (1024×1024 recommended)
 4. Click **◈ Generate Image** — takes 10–30 seconds
 5. Download the result directly from the browser
+<img width="1596" height="759" alt="image" src="https://github.com/user-attachments/assets/b9cb4c3c-2b7f-42a6-920f-1a2e2b2e2851" />
+
 
 ### Prompt Library
 - Click **+ Save** to save the current prompt with a name and category
@@ -507,6 +509,8 @@ POST /api/generate
 }
 ```
 Response: `{ "content": "..." }`
+<img width="1588" height="858" alt="image" src="https://github.com/user-attachments/assets/f5b0aa74-fbad-4de4-a2a5-bf2c747aa5d6" />
+
 
 ---
 
